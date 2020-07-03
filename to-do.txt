@@ -1,0 +1,3 @@
+- figure out if I can scrape walmart site?
+
+- figure out how to automatically fill out a google spreadsheet 
